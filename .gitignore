@@ -1,0 +1,16 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore virtual environment
+venv/

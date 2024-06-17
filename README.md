@@ -1,0 +1,1 @@
+**На моём youtube channel video объяснение: https://www.youtube.com/channel/UCmLkEmjh5JYaA5oDV4UPmFw**
